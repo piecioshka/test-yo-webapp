@@ -1,0 +1,5 @@
+# test-yo-webapp
+
+## License
+
+[The MIT License](http://piecioshka.mit-license.org) @ 2026
